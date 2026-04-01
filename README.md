@@ -32,9 +32,9 @@ We conducted a Fairness Audit focusing on the **False Negative Rate (FNR)**. A h
 
 We performed a Permutation Test to check for statistical significance in the FNR disparity between African American and Caucasian patients:
 * **Observed FNR Difference:** -0.0090
-* **P-value:** 0.7466
+* **P-value:** 0.7311
 
-<img width="341" height="168" alt="image" src="https://github.com/user-attachments/assets/139aa4a7-f4f8-46fa-91c3-f3e616fe9da8" />
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/e20ccb9b-ab4b-4d53-9dbe-ab2f6ba12d05" />
 
 
 **Conclusion:** We cannot conclude that the model treats African American patients differently from Caucasian patients in terms of missed diagnoses. The small FNR gap observed is statistically indistinguishable from random chance, indicating our model remains fair across these groups.
