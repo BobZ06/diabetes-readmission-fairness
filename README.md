@@ -24,7 +24,7 @@ Our Random Forest model successfully identified key indicators for readmission. 
 3. `discharge_disposition_id_22`
 4. `number_emergency`
 
-<img width="317" height="167" alt="image" src="https://github.com/user-attachments/assets/dfda960b-255f-4167-ad4a-97c569236f6c" />
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/0d9e9c93-685f-445f-ac2c-7d4e3dbfad95" />
 
 
 ### 3. AI Fairness Audit
